@@ -8,7 +8,7 @@ Copy yield strategies used by top performing experts. Permissionless vaults. Dep
 
 [Live App](https://app.mirrorfi.xyz/)
 
-Mainnet: [M1RtniT4YxLewLRTnJkhEHB41hm7KXRWDtsMp3ZGGbX](https://explorer.solana.com/address/M1RtniT4YxLewLRTnJkhEHB41hm7KXRWDtsMp3ZGGbX)
+Mainnet: [M1RzzrPZwnVDSJhT4Ve9iPiynzuo54K4WuSSXXY18YA](https://explorer.solana.com/address/M1RzzrPZwnVDSJhT4Ve9iPiynzuo54K4WuSSXXY18YA)
 
 ## Socials
 

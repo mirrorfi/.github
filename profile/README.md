@@ -12,9 +12,9 @@ Mainnet: [M1RzzrPZwnVDSJhT4Ve9iPiynzuo54K4WuSSXXY18YA](https://explorer.solana.c
 
 ## Repository
 
-[V1 App](https://github.com/mirrorfi/v1-app)
+[Programs](https://github.com/mirrorfi/programs)
 
-[Solana Program](https://github.com/mirrorfi/programs)
+[V1 App](https://github.com/mirrorfi/v1-app)
 
 ## Socials
 

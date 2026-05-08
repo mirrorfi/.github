@@ -4,17 +4,11 @@
   <h1 style="margin-top:20px;">MirrorFi</h1>
 </div>
 
-Copy yield strategies used by top performing experts. Permissionless vaults. Deposit and forget.
-
-[Live App](https://app.mirrorfi.xyz/)
-
-Mainnet: [M1RzzrPZwnVDSJhT4Ve9iPiynzuo54K4WuSSXXY18YA](https://explorer.solana.com/address/M1RzzrPZwnVDSJhT4Ve9iPiynzuo54K4WuSSXXY18YA)
+We build a Secure Layer to Manage Composable DeFi Funds & Workflows on Solana.
 
 ## Repository
 
-[Programs](https://github.com/mirrorfi/programs)
-
-[V1 App](https://github.com/mirrorfi/v1-app)
+[Rule Program](https://github.com/mirrorfi/rule): A Programmable On-Chain Policy Engine for Solana
 
 ## Socials
 
